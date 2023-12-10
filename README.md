@@ -9,7 +9,7 @@
 
 
 ### About - 
-- I have done B.E. from Pune University.. currently lookin for opportunity related to my skills
+- I have done B.E. from Pune University.. currently looking for opportunity related to my skills
 - 🔭 I’m currently working on expanding my skills in data analysis.
 - 🌱 I’m currently learning various data analysis tools and techniques to enhance my expertise.
 - 👯 I’m looking to collaborate on on data analysis projects or any opportunities that can help me gain hands-on experience
