@@ -56,7 +56,7 @@ I'm a **Java Developer** with a strong background in **Spring Boot**, **AWS**, *
 
 - LinkedIn: [Pranay Shinde](https://www.linkedin.com/in/pranayshinde7)
 - Email: [spranay740@gmail.com]
-- GitHub: [@pranayshind](https://github.com/pranyashind)
+- GitHub: [@pranayshind](https://github.com/pranayshind)
 
 ---
 
