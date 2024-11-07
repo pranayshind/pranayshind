@@ -46,11 +46,11 @@ I'm a **Java Developer** with a strong background in **Spring Boot**, **AWS**, *
 ---
 
 ## 📈 Projects
+<!--
+🌐 **[Project Name](link-to-project)**: A brief description of your project, technologies used, and your role in it.
+📊 **[Project Name](link-to-project)**: Another project that showcases your skills and experience.
 
-- 🌐 **[Project Name](link-to-project)**: A brief description of your project, technologies used, and your role in it.
-- 📊 **[Project Name](link-to-project)**: Another project that showcases your skills and experience.
-
-
+-->
 
 ## 📫 How to Reach Me
 
